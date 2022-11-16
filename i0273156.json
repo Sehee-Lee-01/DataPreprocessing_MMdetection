@@ -1,0 +1,15 @@
+{
+    "annotation":[{
+        "shape":"circle",
+        "color":"red",
+        "kind":"normal",
+        "box":[1054,462,1074,480],
+        "text":"0",
+        "type":"restriction",
+        "class":"traffic_sign"
+    }],
+    "image":{
+        "filename":"i0273156.jpg",
+        "imsize":[1920,1200]
+        }
+}
